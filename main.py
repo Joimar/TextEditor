@@ -1,4 +1,4 @@
-from mainWindow import *
+from Interface.mainWindow import *
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
