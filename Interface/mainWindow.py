@@ -27,7 +27,4 @@ if __name__ == '__main__':
     # Start the event loop.
     app.exec_()
 
-    #window = telaSimples()
-    #window.show()
-
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
